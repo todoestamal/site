@@ -9,6 +9,9 @@ const Footer = styled.footer`
   padding: 10px 0;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 `;
 
 export default props => (

@@ -1,16 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { StaticQuery, graphql } from 'gatsby'
-import styled, { createGlobalStyle } from 'styled-components';
-import styledNormalize from 'styled-normalize';
+import styled from 'styled-components';
 import Footer from './footer';
 import Header from './header';
-import fonts from '../globalStyles/fonts';
-
-const GlobalStyles = createGlobalStyle`
-  ${styledNormalize}
-  ${fonts}
-`;
+import GlobalStyle from '../globalStyles';
 
 const BodyWrapper = styled.div`
   display: flex;
@@ -19,6 +13,7 @@ const BodyWrapper = styled.div`
   max-width: 960px;
   padding: 0px 1.0875rem 1.45rem;
   padding-top: 0;
+  position: relative;
 `;
 
 const Layout = ({ children }) => (
@@ -34,12 +29,12 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <>
-        <GlobalStyles />
+        <GlobalStyle />
         <BodyWrapper>
           <Header />
           {children}
-          <Footer />
         </BodyWrapper>
+        <Footer />
       </>
     )}
   />
