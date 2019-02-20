@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "todoestamal",
-  "alias": ["todoestamal.es", "todoestamal.com"],
+  "alias": ["todoestamal.es", "todoestamal.com","www.todoestamal.com","www.todoestamal.es"],
   "builds": [
     {
       "src": "package.json",
