@@ -1,12 +1,17 @@
 {
   "version": 2,
   "name": "todoestamal",
-  "alias": ["todoestamal.es", "todoestamal.com"],
+  "alias": ["todoestamal.es", "todoestamal.com","www.todoestamal.com","www.todoestamal.es"],
   "builds": [
     {
       "src": "package.json",
       "use": "@now/static-build",
       "config": { "distDir": "public" }
     }
+  ],
+  "routes": [
+    {"src": "^/public/static/(.*)", "headers": {"cache-control": "public,max-age=31536000,immutable"} },
+    {"src": "^/(.*).(css|js)", "headers": {"cache-control": "public,max-age=31536000,immutable"} },
+    {"src": "^/(.*).html", "headers": {"cache-control": "public,max-age=0,must-revalidate"} }
   ]
 }
