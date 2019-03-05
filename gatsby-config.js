@@ -3,6 +3,7 @@ module.exports = {
     title: `Todo Esta Mal`,
     description: `The positive tech podcast`,
     author: `@solilokiam`,
+    siteUrl: 'https://todoestamal.com',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -42,6 +43,8 @@ module.exports = {
       },
     },
     'gatsby-transformer-remark',
+    'gatsby-plugin-sitemap',
+    'gatsby-plugin-robots-txt'
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.app/offline
     // 'gatsby-plugin-offline',
