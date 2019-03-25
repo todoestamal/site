@@ -9,13 +9,13 @@ const Image = () => (
         placeholderImage: file(relativePath: { eq: "logo.png" }) {
           childImageSharp {
             fluid(maxWidth: 500) {
-              ...GatsbyImageSharpFluid
+              ...GatsbyImageSharpFluid_tracedSVG
             }
           }
         }
       }
     `}
-    render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="Todo Esta Mal" />}
+    render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="Todo Esta Mal" fadeIn critical />}
   />
 )
 export default Image;
