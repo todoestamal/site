@@ -1,6 +1,6 @@
 ---
 path: "/episode/0"
-date: "2017-11-07"
+date: "2019-03-01"
 episode: 0
 title: "Empezar en el sector tecnológico"
 yt_id: 'vazY-v0wW1E'
