@@ -3,7 +3,7 @@ path: "/episode/1"
 date: "2019-04-05"
 episode: 1
 title: "Crunch y Burnout"
-yt_id: 'FTfumRM92wU'
+yt_id: 'tkukdMQRJCo'
 audio_url: 'spotify_foo'
 tags: ['crunch','todoestamal','burnout','empatia','podcast','psicologia']
 ---
