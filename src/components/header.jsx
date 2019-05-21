@@ -3,7 +3,6 @@ import { Link } from 'gatsby';
 import Logo from './logo';
 import { Header, HeaderLogo, NavBarLogo, NavBarMenu } from './styles/header';
 import { CastList, CastItem, CastLink } from './styles/castLink';
-import { NavBarButton } from './styles/navBarButton';
 
 export default () => (
   <Header>
@@ -11,7 +10,6 @@ export default () => (
       <NavBarLogo>
         <Link to="/"><Logo /></Link>
       </NavBarLogo>
-      <NavBarButton href="https://bernycantos417931.typeform.com/to/pfqFR8" target="_blank" rel="noopener noreferrer">Queremos saber tu opinión</NavBarButton>
     </HeaderLogo>
     <NavBarMenu>
       <CastList>
