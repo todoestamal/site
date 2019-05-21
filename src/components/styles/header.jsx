@@ -4,7 +4,6 @@ export const Header = styled.div`
   overflow: hidden;
   padding: 10px 0;
   width: 100%;
-  position: relative;
 `;
 
 export const HeaderLogo = styled.div`
