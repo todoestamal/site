@@ -9,7 +9,7 @@ tags: ['comunidad','todoestamal','haters','mentoring','podcast']
 ---
 # La Comunidad
 
-Las comunidades no son más que grupos de personas. Y, como tales, adolecen de los mismos problemas que tratar con seres humanos. Pero elevado a la enésima potencia. Para hablar de ello hoy nuestra colaboradora estrella es Mavi Jimenez (@linkita), desarrolladora backend y lead en Holaluz, que además saca tiempo para meterse en fregaos del calibre de BcnEng o WWCode Barcelona. ¿Qué nos aporta pertenecer a una comunidad? ¿Cómo puedo contribuir? ¿Qué tipo de conductas hay que vigilar? Y la más importante: ¿Somos capaces de construir una comunidad sana y abierta a todo el mundo?
+Las comunidades no son más que grupos de personas. Y, como tales, adolecen de los mismos problemas que tratar con seres humanos. Pero elevado a la enésima potencia. Para hablar de ello hoy nuestra colaboradora estrella es Mavi Jimenez ([@linkita](https://twitter.com/linkita)), desarrolladora backend y lead en Holaluz, que además saca tiempo para meterse en fregaos del calibre de BcnEng o WWCode Barcelona. ¿Qué nos aporta pertenecer a una comunidad? ¿Cómo puedo contribuir? ¿Qué tipo de conductas hay que vigilar? Y la más importante: ¿Somos capaces de construir una comunidad sana y abierta a todo el mundo?
 
 ## Notas del episodio
 **00:00** Presentación
