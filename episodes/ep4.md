@@ -1,6 +1,6 @@
 ---
 path: "/episode/4"
-date: "2019-06-07"
+date: "2019-07-05"
 episode: 4
 title: "La Comunidad"
 yt_id: '6nPJt0sfsQM'
@@ -9,55 +9,40 @@ tags: ['comunidad','todoestamal','haters','mentoring','podcast']
 ---
 # La Comunidad
 
+Las comunidades no son más que grupos de personas. Y, como tales, adolecen de los mismos problemas que tratar con seres humanos. Pero elevado a la enésima potencia. Para hablar de ello hoy nuestra colaboradora estrella es Mavi Jimenez (@linkita), desarrolladora backend y lead en Holaluz, que además saca tiempo para meterse en fregaos del calibre de BcnEng o WWCode Barcelona. ¿Qué nos aporta pertenecer a una comunidad? ¿Cómo puedo contribuir? ¿Qué tipo de conductas hay que vigilar? Y la más importante: ¿Somos capaces de construir una comunidad sana y abierta a todo el mundo?
 
-## Notas del episodio
+<!-- ## Notas del episodio
 **00:00** Presentación
 
-**00:40** Tenemos una invitada.
+**00:20** No estamos todos. Pero tenemos invitada
 
-**01:22** ¿De qué hablamos hoy?
+**00:45** ¿Quien es Mavi?
 
-**02:05** ¿Que es el Management?
+**01:27** ¿De que hablamos hoy?
 
-**03:50** Fabricar más coches en menos tiempo
+**02:05** ¿Donde estas metida Mavi?
 
-**06:00** Ser un miembro más de la empresa.
+**03:50** Twitter y OT
 
-**08:00** El buen manager te engorila para hacer el trabajo
+**04:30** ¿Como surge la necesidad de la comunidad?
 
-**08:45** El manager neutro, el peor tipo de manager
+**05:30** La comunidad existe desde el principio de los tiempos.
 
-**09:50** Fingir adoptar agile.
+**07:20** Causas para no asistir a meetups.
 
-**11:30** El jugador de damas chinas y el jugador de ajedrez
+**09:30** 4 mentes piensan menos que una aveces.
 
-**13:57** El mito del fullstack
+**11:30** Como interactuamos en la comunidad define como programamos.
 
-**14:40** Cuando el PO hace su trabajo bien no se nota que esta allí
+**13:18** Enchufar el ventilador y repartir mierda VS microagresiones.
 
-**18:10** El nacimiento del Product Owner
+**17:12** ¿Que ventajas nos aporta entrar en una comunidad sana?
 
-**20:10** Un año sin hacer delivery
+**20:55** Berny se acojona a tope con gente que no conoce -->
 
-**21:50** La eterna batalla entre equipo técnico y negocio
 
-**24:10** Negocio hablando más idioma técnico
 
-**26:50** El conocimiento de negocio profundo te da la herramienta adecuada
 
-**27:40** Management 3.0
-
-**30:58** El flujo de información en el management 3.0
-
-**34:00** Parar proyectos y cambiar el rumbo
-
-**37:00** El link de Mierda
-
-**41:10** El dato de Mierda
-
-**45:30** En el próximo episodio
-
-**46:30** Despedida
 
 ## Enlaces recomendados
 
