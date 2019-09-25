@@ -1,9 +1,9 @@
 ---
 path: "/episode/6"
 date: "2019-09-24"
-episode: 5
+episode: 6
 title: "La Calidad"
-yt_id: 'k1Tln1CKY34'
+yt_id: 'z5Se0xiIAiM'
 audio_url: 'spotify_foo'
 tags: ['calidad','todoestamal','testing','QA','podcast']
 ---
