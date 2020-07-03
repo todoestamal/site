@@ -44,7 +44,7 @@ export default () => (
           </CastLink>
         </CastItem>
         <CastItem>
-          <CastLink href="https://feed.pippa.io/public/shows/5c61647505a295e01641510d">
+          <CastLink href="https://anchor.fm/s/1e2a16b0/podcast/rss">
             RSS
           </CastLink>
         </CastItem>
